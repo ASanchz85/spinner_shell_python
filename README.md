@@ -49,3 +49,8 @@ python example.py
 ## License
 
 This project is licensed under the MIT License
+
+## Links
+
+- [GitHub repository](https://github.com/ASanchz85/spinner_shell_python)
+- [Pypi repository](https://pypi.org/project/terminal-spinner/)
